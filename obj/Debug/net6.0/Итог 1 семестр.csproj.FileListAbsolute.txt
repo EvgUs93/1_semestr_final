@@ -1,0 +1,15 @@
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\Итог 1 семестр.csproj.AssemblyReference.cache
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\Итог 1 семестр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\Итог 1 семестр.AssemblyInfoInputs.cache
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\Итог 1 семестр.AssemblyInfo.cs
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\Итог 1 семестр.csproj.CoreCompileInputs.cache
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\bin\Debug\net6.0\Итог 1 семестр.exe
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\bin\Debug\net6.0\Итог 1 семестр.deps.json
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\bin\Debug\net6.0\Итог 1 семестр.runtimeconfig.json
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\bin\Debug\net6.0\Итог 1 семестр.dll
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\bin\Debug\net6.0\Итог 1 семестр.pdb
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\Итог 1 семестр.dll
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\refint\Итог 1 семестр.dll
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\Итог 1 семестр.pdb
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\Итог 1 семестр.genruntimeconfig.cache
+C:\Users\EvGus93\Desktop\Учеба\Итог 1 семестр\obj\Debug\net6.0\ref\Итог 1 семестр.dll
